@@ -1,0 +1,11 @@
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\bin\Debug\PROJE11.exe.config
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\bin\Debug\PROJE11.exe
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\bin\Debug\PROJE11.pdb
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.Form1.resources
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.Form2.resources
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.exe
+C:\Users\BUSE NUR\source\repos\PROJE11\PROJE11\obj\Debug\PROJE11.pdb
